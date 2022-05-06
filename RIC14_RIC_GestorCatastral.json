@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "Modelo_Aplicacion_LADMCOL_RIC_V0_1.RIC.RIC_GestorCatastral",
+"features": [
+{ "type": "Feature", "properties": { "TID": "bfb4f268-e49c-4392-a6d4-b04826bf4724", "Nombre_Gestor": "IGAC", "NIT_Gestor_Catastral": "899999004-9", "Fecha_Inicio_Prestacion_Servicio": "2021-12-13" }, "geometry": null }
+]
+}
